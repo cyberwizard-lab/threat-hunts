@@ -79,9 +79,9 @@ DeviceFileEvents
 - **Date**: August 31, 2024
 
 ## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
+- **Reviewer Name**: Jordan Bowser
+- **Reviewer Contact**: https://www.linkedin.com/in/jordan-bowser-2848782b2/
+- **Validation Date**: March 30, 2026
 
 ---
 
@@ -94,3 +94,4 @@ DeviceFileEvents
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
 | 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
+| 1.1         | Implementation                 | `March 30, 2026`      | `Jordan Bowser`
